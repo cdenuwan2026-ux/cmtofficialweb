@@ -4,15 +4,15 @@
    ========================================================================== */
 const CONFIG = {
     links: {
-        whatsappChannel: "https://whatsapp.com/channel/your-channel-link",
-        movieGroup: "https://chat.whatsapp.com/your-movie-group-link",
-        premiumAppsGroup: "https://chat.whatsapp.com/your-apps-group-link",
-        backupGroup: "https://chat.whatsapp.com/your-backup-group-link",
+        whatsappChannel: "https://whatsapp.com/channel/0029VbCEG8pCHDygc1hBsO0u",
+        movieGroup: "https://chat.whatsapp.com/LxjyER1ygSxK1rMWt6VzXL?s=cl&p=a&mlu=2",
+        premiumAppsGroup: "https://chat.whatsapp.com/DXujLmmZebFBmR3CP4O6kB?s=cl&p=a&mlu=2",
+        backupGroup: "https://chat.whatsapp.com/FxUkW2OulM4EIigLwGALXB?s=cl&p=a&mlu=2",
         contact: {
-            whatsapp: "https://wa.me/your-number",
-            telegram: "https://t.me/your-telegram-username",
+            whatsapp: "https://wa.me/94784293660",
+            telegram: "https://t.me/@chathuzlk",
             youtube: "https://youtube.com/@your-channel",
-            email: "mailto:contact@chathu-md.com"
+            email: "chathumdofficial@gmail.com"
         }
     },
     stats: {
